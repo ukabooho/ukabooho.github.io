@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukabooho.github.io/JkC/sitemap_index.txt
+Sitemap: https://ukabooho.github.io/ZDv/sitemap_index.txt
+Sitemap: https://ukabooho.github.io/nNr/sitemap_index.txt
+Sitemap: https://ukabooho.github.io/rje/sitemap_index.txt
